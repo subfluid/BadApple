@@ -5,6 +5,5 @@ plays Bad Apple!! animation  using a basic unicode palette, either to console or
 
 ## Running
 
-Run `npm install`
-Run `npm start`
+Run `npm install`, then `npm start`
 
