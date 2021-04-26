@@ -109,5 +109,5 @@ function sleep(ms) {
 }
 
 
-// run
+// run (comment out if using discord)
 main();
